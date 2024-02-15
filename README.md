@@ -1,4 +1,4 @@
-# Loverboxd
+# Loverboxd 🎥🌟💌
 
 This is a simple movie recommender system tailored to members of [Letterboxd](https://letterboxd.com), a social network for cinema lovers. While the website is complete, it lacks an important feature, both with free and paid subscriptions: movie recommendation. This project aims to make up for it.
 
