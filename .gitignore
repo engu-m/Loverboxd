@@ -2,3 +2,5 @@
 .vscode
 recommendations*.csv
 __pycache__
+user_data/ratings.csv
+letterboxd_data/**
