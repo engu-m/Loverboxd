@@ -13,7 +13,7 @@ Sidenote: The official answer to this is [here](https://letterboxd.com/about/faq
 Download the dataset from [here](https://www.kaggle.com/samlearner/letterboxd-movie-ratings-data) and unzip it. Move the csv files in a new folder called `letterboxd_data`
 
 Install the requirements with
-````pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 [Export](https://letterboxd.com/settings/data/) your letterboxd account data. Move the file `ratings.csv` in the folder `user_data`. Then launch `reco_surprise.ipynb`
 
@@ -29,9 +29,8 @@ Several algorithms are proposed, from easiest to more advanced.
 
 I suggest [this great tutorial](https://realpython.com/build-recommendation-engine-collaborative-filtering/) to get started with most simple recommender systems. Even the most basic system gives good results for a single user.
 
-## What's next
+## What's next (other branches)
 
-- more algorithms to choose from
 - updated database for movies released in 2023 or later
 - accurate filters for movie results
 - web app deployment with flask and heroku
