@@ -1,0 +1,4 @@
+*venv
+.vscode
+recommendations*.csv
+__pycache__
